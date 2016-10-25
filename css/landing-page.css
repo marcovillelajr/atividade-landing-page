@@ -1,0 +1,13 @@
+.fullscreen {
+	background-color: #5C2414;
+	width: 100vw;
+	height: 100vh;
+}
+
+h2{
+	text-align: center;
+}
+article {
+	margin: 10px auto;
+}
+
