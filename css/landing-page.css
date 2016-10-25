@@ -7,7 +7,24 @@
 h2{
 	text-align: center;
 }
+
 article {
 	margin: 10px auto;
+}
+
+.box {
+	width: 100px;
+	height: 100px;
+	background: #57C4D9;
+	display: inline-block;
+	border-radius: 4px;
+	text-align: center;
+	margin: 10px auto;
+}
+
+.box button {
+	align-items: center;
+	border-radius: 4px;
+	box-shadow: 1px 3px 10px rgba(169,169,169,1);
 }
 
